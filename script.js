@@ -2,25 +2,38 @@
 // Typing Effect
 // ==========================
 
-const message = `Happy Friendship Day! 🫂
+const message = `Happy National Princess Day Mere Potato ! 🫂
 
-A true friend is one of life's greatest blessings.
+The most beautiful day for me 🌍💗
+Happy National Princess Day meri Potato 👸🎀
+My one and only Princess 👑🫶🏻
 
-Thank you for always being there,
-for every laugh,
-every smile,
-every memory,
-and every moment we shared.
+Meri pyaari si cute si baccha  ❤️
+Tum sirf meri favourite person nahi ho,
+Tum meri puri duniya ho 🌍🫀
+Meri har khushi ki wajah ho 🥰💕
+Meri life ka sabse beautiful part ho 🦋
 
-No matter how far life takes us,
-our friendship will always stay forever. ♾️
+You are my happiness 😊💐
+You are my peace 🕊️❤️
+You are my favourite dream 🥺💫
+You are my forever favourite Princess 👸🏻♾️
 
-Wishing you happiness,
-success,
-good health,
-and endless smiles.
+Meri jaan, hamesha aise hi muskurati rehna 😘🌹
+Tumhari smile mere liye duniya ki sabse pyari cheez hai 🥰
+Kabhi khud ko akela mat samajhna 🫂❤️
+Main hamesha tumhari khushiyon ki dua karunga 🤞🏻💗
+Aur no matter kbh kaisa sitution aayega but mai hamesha tere sath rahunga 🦋🌼
+Tera support krunga or haan kalesh bhi tere se hi krunga hehehe.
+Kyuki uh r my maal babe 😁😁.
 
-Happy Friendship Day 2027 ❤️`;
+
+Loveeeee youhh sooo muchhh meri Princess 👸🏻🌹
+Meri jaanemann, meri sweet potato, mere ladoo👸👸, meri duniya 🌍🫀
+Happy National Princess Day once againn 🥳🎀
+Ummmmmahahhh 💋😘💋
+
+Happy National Princess Day Mere Baccha❤️`;
 
 let i = 0;
 const typing = document.getElementById("typing");
