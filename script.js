@@ -6,7 +6,7 @@ const message = `Happy National Princess Day Mere Potato ! 🫂
 
 The most beautiful day for me 🌍💗
 Happy National Princess Day meri Potato 👸🎀
-My one and only Princess 👑🫶🏻
+My one and only Princess 👑🫶🏻.
 
 Meri pyaari si cute si baccha  ❤️
 Tum sirf meri favourite person nahi ho,
